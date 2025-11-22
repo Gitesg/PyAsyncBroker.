@@ -19,3 +19,13 @@ It demonstrates how tasks are produced, queued, and processed by multiple worker
 
 Producers add messages → Queue stores them → Consumers process them.
 
+## 📌 Future Improvements
+
+Retry failed tasks
+
+Priority queue
+
+Dead-letter queue
+
+Redis-based distributed workers
+
